@@ -1,2 +1,2 @@
 Git is a version control system aaaaa.
-Git is free software hhhh.
+Git is free software hhhh append GPL.
